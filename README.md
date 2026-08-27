@@ -72,13 +72,12 @@ git push -u origin main
 
 ### 开启 Pages
 
-1. 打开 GitHub 仓库。
-2. 进入 `Settings`。
-3. 左侧选择 `Pages`。
-4. `Build and deployment` 选择 `Deploy from a branch`。
-5. Branch 选择 `main`，目录选择 `/(root)`。
-6. 点击 `Save`。
-7. 等待一至三分钟，刷新 Pages 页面查看发布地址。
+仓库已包含 `.github/workflows/pages.yml`。推送 `main` 后会自动尝试开启并部署 Pages。
+
+1. 打开 GitHub 仓库的 `Actions` 页面。
+2. 等待 `Deploy GitHub Pages` 工作流完成。
+3. 工作流成功后打开 `Settings -> Pages` 查看发布地址。
+4. 如果 GitHub 阻止自动启用，在 `Build and deployment` 的 Source 中选择 `GitHub Actions`，然后重新运行工作流。
 
 ## 自定义域名
 
