@@ -4,7 +4,6 @@
 
 - 官方主站：<http://47.110.140.164/>
 - 发布页：<https://broadsun.github.io/meng-theatre-pages/>
-- 仓库：<https://github.com/broadsun/meng-theatre-pages>
 
 ## 本地预览
 

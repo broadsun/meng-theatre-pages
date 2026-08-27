@@ -24,12 +24,6 @@ window.SITE_CONFIG = {
       url: "http://47.110.140.164/",
       status: "主站",
     },
-    {
-      name: "GitHub 仓库",
-      description: "查看本站源码与更新记录",
-      url: "https://github.com/broadsun/meng-theatre-pages",
-      status: "源码",
-    },
   ],
 
   notice: {
