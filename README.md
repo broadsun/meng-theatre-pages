@@ -2,6 +2,10 @@
 
 纯 HTML/CSS/JavaScript 静态站点，可直接部署到 GitHub Pages。
 
+- 官方主站：<http://47.110.140.164/>
+- 发布页：<https://broadsun.github.io/meng-theatre-pages/>
+- 仓库：<https://github.com/broadsun/meng-theatre-pages>
+
 ## 本地预览
 
 直接打开 `index.html`，或在当前目录运行：
