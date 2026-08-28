@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://broadsun.github.io/meng-theatre-pages/sitemap.xml
